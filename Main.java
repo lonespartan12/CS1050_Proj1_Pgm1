@@ -5,6 +5,7 @@ Author: Christian Mudd
 Date: 07/09/2020
 Version: 1.0
 */
+
 import java.util.Scanner;
 
 class Main {
